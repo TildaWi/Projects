@@ -1,4 +1,4 @@
-# Wi Tae-in's Project Portfolio  
+# LeeTaeIn Wi's Project Portfolio  
 데이터 분석가를 꿈꾸는 위이태인의 프로젝트 포트폴리오입니다.
 
 ---
