@@ -11,7 +11,7 @@
 - Isolation Forest 및 통계 기반 앙상블 이상 탐지 기법을 활용하여 고위험 주문을 사전 탐색  
 - 배송 지연 위험을 사전에 대응할 수 있는 정량적 기준과 개선 전략 제시  
 
-🔗 [보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/메인프로젝트_1.pdf)
+🔗 [프로젝트 GitHub](https://github.com/TildaWi/delivery_delay_detection) / [보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/메인프로젝트_1.pdf)
 
 ---
 
@@ -23,7 +23,7 @@
 - 변경 전·후 진열안의 평균 이동 거리 비교를 통해 개선 효과(21% 이동 거리 절감) 도출  
 - 머신러닝 기반 추천안(랜덤포레스트)을 통해 자동화 가능성 검토  
 
-🔗 [보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/메인프로젝트_2.pdf)
+🔗 [프로젝트 GitHub](https://github.com/TildaWi/shelf_layout_optimization) / [보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/메인프로젝트_2.pdf)
 
 ---
 
@@ -35,7 +35,7 @@
 - 로그 기반 행동 패턴 분석을 통해 이력서 수정 빈도, 체류시간, 클릭 수가 전환율에 유의미한 영향을 미침을 확인  
 - 이를 바탕으로 이력서 UX 개선, 공고 탐색 배너 노출, 유사 공고 UI 개선 등 A/B 테스트 기반 개선안을 도출  
 
-🔗 [발표자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/서브프로젝트_1.pdf)
+🔗 [프로젝트 GitHub](https://github.com/TildaWi/job_funnel_analysis) / [발표자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/서브프로젝트_1.pdf)
 
 ---
 
@@ -47,7 +47,8 @@
 - 8월 고장률 급등의 원인으로 ‘정비 물량 과다’, ‘기온 상승’, ‘따릉이포 미운영’ 등을 확인  
 - 정비 수요 예측 모델링을 통해 월별 예측량과 운영 전략 제안  
 
-🔗 [발표자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/서브프로젝트_2.pdf)  
+🔗 [프로젝트 GitHub](https://github.com/TildaWi/ttareungi_failure_analysis) / 
+🔗 [발표자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/서브프로젝트_2.pdf) /
 🔗 [시각화 대시보드](https://public.tableau.com/app/profile/leetaein.wi/viz/_17399404264330/2)
 
 ---
