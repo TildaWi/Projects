@@ -48,7 +48,7 @@
 - 정비 수요 예측 모델링을 통해 월별 예측량과 운영 전략 제안  
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/ttareungi_failure_analysis) / 
-🔗 [발표자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/서브프로젝트_2.pdf) /
-🔗 [시각화 대시보드](https://public.tableau.com/app/profile/leetaein.wi/viz/_17399404264330/2)
+[발표자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/서브프로젝트_2.pdf) /
+[시각화 대시보드](https://public.tableau.com/app/profile/leetaein.wi/viz/_17399404264330/2)
 
 ---
