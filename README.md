@@ -23,7 +23,7 @@
 - Isolation Forest 및 통계 기반 앙상블 이상 탐지 기법을 활용하여 고위험 주문을 사전 탐색  
 - 배송 지연 위험을 사전에 대응할 수 있는 정량적 기준과 개선 전략 제시  
 
-🔗 [프로젝트 GitHub](https://github.com/TildaWi/delivery_delay_project) / [요약 보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/메인프로젝트_1.pdf)
+🔗 [프로젝트 GitHub](https://github.com/TildaWi/delivery_delay_project) / [요약 보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/배송지연탐지_프로젝트_요약_보고서.pdf.pdf)
 
 ---
 
