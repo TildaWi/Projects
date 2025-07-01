@@ -40,7 +40,7 @@
 ---
 
 ## 04. 채용 플랫폼 '지원 비완료 탐색 유저' 이탈 개선 프로젝트 (2025)  
-📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/ABTest-0088CC?style=flat&logoColor=white"/>
+📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat-square&logo=python&logoColor=white"/>
 
 **프로젝트 소개**  
 - 채용 플랫폼 신규 가입 유저의 전환 퍼널을 정의하고, 이탈률이 높은 구간(이력서 작성, 공고 탐색, 클릭 단계)을 중심으로 정량 분석을 수행  
