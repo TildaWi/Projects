@@ -3,15 +3,15 @@
 
 ---
 
-## 01. '당근' 플랫폼 유저의 '신고 패턴 분석' 프로젝트 (2025)  
-📅 2025.06 ~ 2025.07 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"/>
+## 01. 공공데이터 기반 '대기오염 실시간 분석 자동화' 프로젝트 (2025)  
+📅 2025.07 ~ 2025.07 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/> <img src="https://img.shields.io/badge/ETL-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white"/> 
 
 **프로젝트 소개**  
-- 유저 신고 패턴을 분석하여 최종 신고까지의 퍼널 단계 수립  
-- 신고 유형별 분류를 통한 유저 페르소나 설정  
-- A/B 테스트를 설계하여 플랫폼의 안전성과 만족도를 높이는 방향으로 개선안 도출  
+- 공공데이터포털의 에어코리아 대기오염 API를 활용해 실시간 대기오염 데이터를 수집하고 BigQuery에 적재
+- Airflow를 활용한 ETL 파이프라인을 구성해 데이터 적재를 자동화 
+- 수집된 데이터를 바탕으로 지역별 오염도 패턴 분석 및 시각화를 진행
 
-🔗 [프로젝트 GitHub](https://github.com/TildaWi/danggeun_complaint_pattern_project) / [발표 자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/메인프로젝트_1.pdf) / [요약 보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/메인프로젝트_1.pdf)
+🔗 [프로젝트 GitHub](https://github.com/TildaWi/air_quality_data_pipeline_project) / [발표 자료 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/) / [요약 보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio_wileetaein/blob/main/)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 03. 물류센터 피킹 효율성 개선을 위한 머신러닝 기반 '진열 방식 최적화' 프로젝트 (2025)  
+## 03. 물류센터 '피킹 효율성 개선'을 위한 '진열 방식 최적화' 프로젝트 (2025)  
 📅 2025.05 ~ 2025.05 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/RandomForest-43A047?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"/>
 
 **프로젝트 소개**  
@@ -52,7 +52,7 @@
 
 ---
 
-## 05. 서울시 공공자전거 '따릉이' 고장률 분석 프로젝트 (2025)  
+## 05. 따릉이 '고장률 분석' 및 '정비 전략 수립' 프로젝트 (2025)  
 📅 2025.02 ~ 2025.02 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 
 **프로젝트 소개**  
