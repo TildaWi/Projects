@@ -28,7 +28,7 @@
 ---
 
 ## 03. 물류센터 '피킹 효율성 개선'을 위한 '진열 방식 최적화' 프로젝트 (2025)  
-📅 2025.05 ~ 2025.05 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/RandomForest-43A047?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"/>
+📅 2025.05 ~ 2025.05 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/>
 
 **프로젝트 소개**  
 - 물류센터 피킹 작업의 비효율을 해결하기 위해, 제품 주문 빈도 기반 ABC 분류 후 진열 위치 재배치 시뮬레이션 수행  
