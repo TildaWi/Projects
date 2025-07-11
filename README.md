@@ -53,12 +53,11 @@
 ---
 
 ## 05. 따릉이 '고장률 분석' 및 '정비 전략 수립' 프로젝트 (2025)  
-📅 2025.02 ~ 2025.02 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+📅 2025.02 ~ 2025.02 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/GeoPandas-55A646?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Statsmodels-F2D64E?style=flat&logo=python&logoColor=black"/>
 
 **프로젝트 소개**  
 - 따릉이의 월별 고장률 변화 요인을 파악하기 위해 정비이력, 기상정보, 운영현황 데이터를 통합 분석  
 - 8월 고장률 급등의 원인으로 ‘정비 물량 과다’, ‘기온 상승’, ‘따릉이포 미운영’ 등을 확인  
-- 정비 수요 예측 모델링을 통해 월별 예측량과 운영 전략 제안  
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/ttareungi-project) / 
 [발표 자료 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/'따릉이'_고장률_분석_프로젝트_발표자료.pdf) /
