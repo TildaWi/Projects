@@ -16,7 +16,7 @@
 ---
 
 ## 02. 이상 탐지 기반 '배송 지연 패턴 분석' 프로젝트 (2025)  
-📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
 **프로젝트 소개**  
 - 딜리버리 물류 데이터를 기반으로 지연 발생 조건(시간대, 노선, 교통수단 등)을 정량 분석  
@@ -28,7 +28,7 @@
 ---
 
 ## 03. 물류센터 '피킹 효율성 개선'을 위한 '진열 방식 최적화' 프로젝트 (2025)  
-📅 2025.05 ~ 2025.05 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/>
+📅 2025.05 ~ 2025.05 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
 **프로젝트 소개**  
 - 물류센터 피킹 작업의 비효율을 해결하기 위해, 제품 주문 빈도 기반 ABC 분류 후 진열 위치 재배치 시뮬레이션 수행  
@@ -40,7 +40,7 @@
 ---
 
 ## 04. 채용 플랫폼 '지원 비완료 탐색 유저' 이탈 개선 프로젝트 (2025)  
-📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
 
 **프로젝트 소개**  
 - 채용 플랫폼 신규 가입 유저의 전환 퍼널을 정의하고, 이탈률이 높은 구간(이력서 작성, 공고 탐색, 클릭 단계)을 중심으로 정량 분석을 수행  
@@ -49,11 +49,10 @@
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/job-funnel-dropoff-project) / [발표 자료 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/채용_플랫폼_이탈_개선_프로젝트_발표자료.pdf)
 
-
 ---
 
 ## 05. 따릉이 '고장률 분석' 및 '정비 전략 수립' 프로젝트 (2025)  
-📅 2025.02 ~ 2025.02 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/GeoPandas-55A646?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Statsmodels-F2D64E?style=flat&logo=python&logoColor=black"/>
+📅 2025.02 ~ 2025.02 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Statsmodels-3E4E50?style=flat&logo=python&logoColor=white"/>
 
 **프로젝트 소개**  
 - 따릉이의 월별 고장률 변화 요인을 파악하기 위해 정비이력, 기상정보, 운영현황 데이터를 통합 분석  
