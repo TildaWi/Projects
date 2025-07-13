@@ -32,10 +32,11 @@
 
 ![프로젝트 진행 도식화](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/images/fulfillment_layout_project.png)
 
-**프로젝트 소개**  
-- 물류센터 피킹 작업의 비효율을 해결하기 위해, 제품 주문 빈도 기반 ABC 분류 후 진열 위치 재배치 시뮬레이션 수행  
-- 변경 전·후 진열안의 평균 이동 거리 비교를 통해 개선 효과(21% 이동 거리 절감) 도출  
-- 머신러닝 기반 추천안(랜덤포레스트)을 통해 자동화 가능성 검토  
+### 프로젝트 소개 
+**현상 및 배경 |** 풀필먼트 센터의 출고 프로세스에서 비효율적인 랜덤 진열로 인해 피킹 동선 낭비와 작업 생산성 저하 발생 <br/>
+**문제 정의 |** 상품별 주문 빈도를 기준으로 ABC 등급 분류 모델(Random Forest) 을 설계하고, 최적 진열 시뮬레이션을 통해 효율성을 분석
+**결과 |** 최적 진열 적용 시 **피킹 이동 거리 35.3%↓, 전체 처리 시간 19.5%↓, 작업자 생산성 24.2%↑**로 운영 효율성 개선 확인
+**액션 |** 해당 분석은 센터 레이아웃 최적화 및 출고 처리량 향상 전략 도출에 활용됨
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/fulfillment-layout-project) / [요약 보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/진열방식_최적화_프로젝트_요약_보고서.pdf)
 
