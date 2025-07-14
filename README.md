@@ -62,7 +62,7 @@
 ---
 
 
-## 04. 채용 플랫폼 '지원 비완료 탐색 유저' 이탈 개선 프로젝트 (2025)  
+## 04. 채용 플랫폼 로그 분석 기반 전환률 개선을 위한 UI/UX 제안 (2025)  
 📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
 
 ### 프로젝트 소개 
