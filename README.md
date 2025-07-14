@@ -1,15 +1,20 @@
 # LeeTaeIn Wi's Project Portfolio  
-데이터 분석가를 꿈꾸는 위이태인의 프로젝트 포트폴리오입니다.
+데이터 분석가, 위이태인의 프로젝트 포트폴리오입니다.
 
 ---
 
 ## 01. 공공데이터 기반 '대기오염 실시간 분석 자동화' 프로젝트 (2025)  
-📅 2025.07 ~ 2025.07 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/> <img src="https://img.shields.io/badge/ETL-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white"/> 
+📅 2025.06.19 ~ 2025.07 ｜ 개인 프로젝트 ｜  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/> ![LookerStudio](https://img.shields.io/badge/LookerStudio-4285F4?style=flat-square&logo=Looker&logoColor=white)
 
-**프로젝트 소개**  
-- 공공데이터포털의 에어코리아 대기오염 API를 활용해 실시간 대기오염 데이터를 수집하고 BigQuery에 적재
-- Airflow를 활용한 ETL 파이프라인을 구성해 데이터 적재를 자동화 
-- 수집된 데이터를 바탕으로 지역별 오염도 패턴 분석 및 시각화를 진행
+### 프로젝트 소개 
+- **현상 및 배경 |** 전국 측정소(243곳)의 실시간 대기질 데이터를 운영팀이 수기 취합 → 데이터 최신화 지연과 이슈 대응 한계
+- **원인 |**
+  - 공공 API 수집·적재 파이프라인 구축되지 않음
+  - 실시간 모니터링 시스템 부재
+- **결과 |**
+  - 자동화 파이프라인 구축 → 데이터 1시간 단위 자동 갱신
+  - 운영자 대시보드 구현 → 전국 평균 CAI 72.5, 알람 3건 실시간 감지
+- **액션 |** 전국 대기질 실시간 모니터링 및 알람 시스템 정착, 운영팀 대응 속도 향상 기대 <br/>
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/air-quality-data-pipeline-project) / [발표 자료 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/) / [요약 보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/)
 
@@ -18,10 +23,15 @@
 ## 02. 이상 탐지 기반 '배송 지연 패턴 분석' 프로젝트 (2025)  
 📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
-**프로젝트 소개**  
-- 딜리버리 물류 데이터를 기반으로 지연 발생 조건(시간대, 노선, 교통수단 등)을 정량 분석  
-- Isolation Forest 및 통계 기반 앙상블 이상 탐지 기법을 활용하여 고위험 주문을 사전 탐색  
-- 배송 지연 위험을 사전에 대응할 수 있는 정량적 기준과 개선 전략 제시  
+### 프로젝트 소개 
+- **현상 및 배경 |** 
+- **원인 |**
+  -
+  - 
+- **결과 |**
+  - 
+  - 
+- **액션 |**  <br/>
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/delivery-delay-project) / [요약 보고서 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/배송지연탐지_프로젝트_요약_보고서.pdf)
 
@@ -42,13 +52,20 @@
 
 ---
 
+
 ## 04. 채용 플랫폼 '지원 비완료 탐색 유저' 이탈 개선 프로젝트 (2025)  
 📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
 
-**프로젝트 소개**  
-- 채용 플랫폼 신규 가입 유저의 전환 퍼널을 정의하고, 이탈률이 높은 구간(이력서 작성, 공고 탐색, 클릭 단계)을 중심으로 정량 분석을 수행  
-- 로그 기반 행동 패턴 분석을 통해 이력서 수정 빈도, 체류시간, 클릭 수가 전환율에 유의미한 영향을 미침을 확인  
-- 이를 바탕으로 이력서 UX 개선, 공고 탐색 배너 노출, 유사 공고 UI 개선 등 A/B 테스트 기반 개선안을 도출  
+### 프로젝트 소개 
+- **현상 및 배경 |** 
+- **원인 |**
+  -
+  - 
+- **결과 |**
+  - 
+  - 
+- **액션 |**  <br/>
+
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/job-funnel-dropoff-project) / [발표 자료 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/채용_플랫폼_이탈_개선_프로젝트_발표자료.pdf)
 
@@ -57,9 +74,16 @@
 ## 05. 따릉이 '고장률 분석' 및 '정비 전략 수립' 프로젝트 (2025)  
 📅 2025.02 ~ 2025.02 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GeoPandas-FDD835?style=flat&logo=geopandas&logoColor=black"/> 
 
-**프로젝트 소개**  
-- 따릉이의 월별 고장률 변화 요인을 파악하기 위해 정비이력, 기상정보, 운영현황 데이터를 통합 분석  
-- 8월 고장률 급등의 원인으로 ‘정비 물량 과다’, ‘기온 상승’, ‘따릉이포 미운영’ 등을 확인  
+### 프로젝트 소개 
+- **현상 및 배경 |** 
+- **원인 |**
+  -
+  - 
+- **결과 |**
+  - 
+  - 
+- **액션 |**  <br/>
+
 
 🔗 [프로젝트 GitHub](https://github.com/TildaWi/ttareungi-project) / 
 [발표 자료 PDF 다운로드](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/'따릉이'_고장률_분석_프로젝트_발표자료.pdf) /
