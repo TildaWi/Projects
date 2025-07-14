@@ -27,14 +27,14 @@
 📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
 ### 프로젝트 소개 
-- **현상 및 배경 |** 
+- **현상 및 배경 |** 전국 측정소(243곳)의 실시간 대기질 데이터를 운영팀이 수기 취합 → 데이터 최신화 지연과 이슈 대응 한계
 - **원인 |**
-  -
-  - 
+  - 공공 API 수집·적재 파이프라인 구축되지 않음
+  - 실시간 모니터링 시스템 부재
 - **결과 |**
-  - 
-  - 
-- **액션 |**  <br/>
+  - 자동화 파이프라인 구축 → 데이터 1시간 단위 자동 갱신
+  - 운영자 대시보드 구현 → 전국 평균 CAI 72.5, 알람 3건 실시간 감지
+- **액션 |** 전국 대기질 실시간 모니터링 및 알람 시스템 정착, 운영팀 대응 속도 향상 기대 <br/>
 
 ### 프로젝트 과정
 ![프로젝트 진행 과정 도식화](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/images/fulfillment_layout_project.png)
@@ -66,14 +66,14 @@
 📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
 
 ### 프로젝트 소개 
-- **현상 및 배경 |** 
+- **현상 및 배경 |** 전국 측정소(243곳)의 실시간 대기질 데이터를 운영팀이 수기 취합 → 데이터 최신화 지연과 이슈 대응 한계
 - **원인 |**
-  -
-  - 
+  - 공공 API 수집·적재 파이프라인 구축되지 않음
+  - 실시간 모니터링 시스템 부재
 - **결과 |**
-  - 
-  - 
-- **액션 |**  <br/>
+  - 자동화 파이프라인 구축 → 데이터 1시간 단위 자동 갱신
+  - 운영자 대시보드 구현 → 전국 평균 CAI 72.5, 알람 3건 실시간 감지
+- **액션 |** 전국 대기질 실시간 모니터링 및 알람 시스템 정착, 운영팀 대응 속도 향상 기대 <br/>
 
 ### 프로젝트 과정
 ![프로젝트 진행 과정 도식화](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/images/fulfillment_layout_project.png)
@@ -87,14 +87,14 @@
 📅 2025.02 ~ 2025.02 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GeoPandas-FDD835?style=flat&logo=geopandas&logoColor=black"/> 
 
 ### 프로젝트 소개 
-- **현상 및 배경 |** 
+- **현상 및 배경 |** 전국 측정소(243곳)의 실시간 대기질 데이터를 운영팀이 수기 취합 → 데이터 최신화 지연과 이슈 대응 한계
 - **원인 |**
-  -
-  - 
+  - 공공 API 수집·적재 파이프라인 구축되지 않음
+  - 실시간 모니터링 시스템 부재
 - **결과 |**
-  - 
-  - 
-- **액션 |**  <br/>
+  - 자동화 파이프라인 구축 → 데이터 1시간 단위 자동 갱신
+  - 운영자 대시보드 구현 → 전국 평균 CAI 72.5, 알람 3건 실시간 감지
+- **액션 |** 전국 대기질 실시간 모니터링 및 알람 시스템 정착, 운영팀 대응 속도 향상 기대 <br/>
 
 ### 프로젝트 과정
 ![프로젝트 진행 과정 도식화](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/images/fulfillment_layout_project.png)
