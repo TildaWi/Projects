@@ -46,7 +46,7 @@
 ---
 
 ## 03. 이상 탐지 기반 '배송 지연 패턴 분석' 프로젝트 (2025)  
-📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
 ### 프로젝트 소개 
 - **현상 및 배경 |** 배송 과정에서 발생하는 지연 이슈를 사전에 감지하지 못해 고객 불만 및 운영 비용 증가 발생
@@ -108,8 +108,7 @@
 ---
 
 ## 06. 따릉이 '고장률 분석' 및 '정비 전략 수립' 프로젝트 (2025)  
-📅 2025.02.13 ~ 2025.02.28 ｜ 팀 프로젝트 ｜  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+📅 2025.02.13 ~ 2025.02.28 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
 
 ### 프로젝트 소개 
 - **현상 및 배경 |** 서울시 공공자전거 '따릉이'의 정비 불균형으로 특정 지역의 고장률 급증 및 운영 효율 저하
