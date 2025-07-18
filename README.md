@@ -46,7 +46,7 @@
 ---
 
 ## 03. 이상 탐지 기반 '배송 지연 패턴 분석' 프로젝트 (2025)  
-📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+📅 2025.06 ~ 2025.06 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
 ### 프로젝트 소개 
 - **현상 및 배경 |** 배송 과정에서 발생하는 지연 이슈를 사전에 감지하지 못해 고객 불만 및 운영 비용 증가 발생
@@ -67,7 +67,7 @@
 ---
 
 ## 04. 물류센터 '피킹 효율성 개선'을 위한 '진열 방식 최적화' 프로젝트 (2025)  
-📅 2025.05 ~ 2025.05 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+📅 2025.05 ~ 2025.05 ｜ 개인 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
 ### 프로젝트 소개 
 - **현상 및 배경 |** 풀필먼트 센터의 출고 프로세스에서 비효율적인 랜덤 진열로 인해 피킹 동선 낭비와 작업 생산성 저하 발생
@@ -87,7 +87,7 @@
 
 
 ## 05. 채용 플랫폼 로그 분석 기반 전환률 개선을 위한 UI/UX 제안 (2025)  
-📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+📅 2025.04 ~ 2025.04 ｜ 팀 프로젝트 ｜ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 ### 프로젝트 소개 
 - **현상 및 배경 |** 채용 플랫폼 내 사용자 이탈률이 높음 → 전환 최적화 필요
@@ -110,11 +110,6 @@
 ## 06. 따릉이 '고장률 분석' 및 '정비 전략 수립' 프로젝트 (2025)  
 📅 2025.02.13 ~ 2025.02.28 ｜ 팀 프로젝트 ｜  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GeoPandas-FDD835?style=flat&logo=geopandas&logoColor=black"/> 
 
 ### 프로젝트 소개 
 - **현상 및 배경 |** 서울시 공공자전거 '따릉이'의 정비 불균형으로 특정 지역의 고장률 급증 및 운영 효율 저하
