@@ -127,7 +127,7 @@
 - **액션 |** 서울시 자치구별 맞춤형 정비 전략 수립으로 고장률 15% 개선 기대  
 
 ### 프로젝트 과정
-![프로젝트 진행 과정 도식화](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/images/ttareungi_project.png)
+<!-- ![프로젝트 진행 과정 도식화](https://github.com/TildaWi/Portfolio-wileetaein/blob/main/images/ttareungi_project.png) -->
 
 ### 프로젝트 공유
 🔗 [**프로젝트 GitHub**](https://github.com/TildaWi/ttareungi_project) ｜ 
